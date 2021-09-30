@@ -21,8 +21,13 @@ visual studio 2017 ve mssql13 programları kurulmalıdır.
 <br>
 <br>
 1) ZIP dosyasını indirdikten sonra içerisinde bulunan projenin kaynak dosyaları dışarı çıkarılır.<br>
-2) Dışarı çıkarılan klasör açılır ve veri tabanı dosyasının içerisindeki mdf ve ldf uzantılı dosyaları mssql de DATA dosyasının içerisine atıyoruz. Videoda detaylı anlatılıyor [Youtube linki](https://www.youtube.com/watch?v=EHJHkOIMaaQ)<br>
-3) 
+2) Dışarı çıkarılan klasörü açtıktan sonra veri tabanı dosyasının içerisindeki mdf ve ldf uzantılı dosyaları mssql de DATA dosyasının içerisine atıyoruz. Videoda detaylı anlatılıyor [Youtube linki](https://www.youtube.com/watch?v=EHJHkOIMaaQ)<br>
+3) Otobüs otomasyonu dosyasının içerisindeki Otomasyon.sln isimli proje açılır. <br>
+4) Form1.cs açılır ve SqlConnection kısmında ki Server bilgisi kısmına bilgisayarınızın server bilgisini yazmalısınız. İlgili kod satırının ekran görüntüsü aşağıdadır.<br>
+<br>
+![sa](https://user-images.githubusercontent.com/91637929/135537408-24e963f7-37a5-4351-a789-d39c8e1b7f47.PNG)
+
+
 
 
 ![image1](https://user-images.githubusercontent.com/91637929/135361132-646e2ea9-1af8-41d0-874e-757b5cead3d5.png)
