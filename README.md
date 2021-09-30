@@ -13,7 +13,7 @@ Yeşil code butonuna tıkladıktan sonra Download ZIP diyerek bilgisayarınıza 
 **Projeyi çalıştırabilmek için gerekli olan programlar?**
 <br>
 <br>
-visual studio 2017 ve mssql programları kurulmalıdır. 
+visual studio 2017 ve mssql13 programları kurulmalıdır. 
 <br>
 <br>
 <br>
