@@ -26,6 +26,8 @@ visual studio 2017 ve mssql13 programları kurulmalıdır.
 4) Form1.cs açılır ve SqlConnection kısmında ki Server bilgisi kısmına bilgisayarınızın server bilgisini yazmalısınız. İlgili kod satırının ekran görüntüsü aşağıdadır.<br>
 
 ![sa](https://user-images.githubusercontent.com/91637929/135537408-24e963f7-37a5-4351-a789-d39c8e1b7f47.PNG)
+<br>
+5) Sonrasında visual studio içerisinde projeyi çalıştırıp test edebilirsiniz.
 <br><br><br><br><br><br><br>
 
 
