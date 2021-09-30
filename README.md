@@ -1,6 +1,28 @@
 # Bilet-Otomasyonu
 Bir firmadan otobüs bileti almanızı sağlayan bir otomasyon.
 <br>
+<br>
+<br>
+**Proje Nasıl İndirilir?**
+<br>
+<br>
+Yeşil code butonuna tıkladıktan sonra Download ZIP diyerek bilgisayarınıza indirebilirsiniz.
+<br>
+<br>
+<br>
+**Projeyi çalıştırabilmek için gerekli olan programlar?**
+<br>
+<br>
+visual studio 2017 ve mssql programları kurulmalıdır. 
+<br>
+<br>
+<br>
+**Proje nasıl çalıştırılır?**
+<br>
+<br>
+1) ZIP dosyasını indirdikten sonra içerisinde bulunan projenin kaynak dosyaları dışarı çıkarılır.<br>
+2) Dışarı çıkarılan klasör açılır ve veri tabanı dosyasının içerisindeki 
+
 
 ![image1](https://user-images.githubusercontent.com/91637929/135361132-646e2ea9-1af8-41d0-874e-757b5cead3d5.png)
 <br>
