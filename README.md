@@ -6,7 +6,7 @@ Bir firmadan otobüs bileti almanızı sağlayan bir otomasyon.
 **Proje Nasıl İndirilir?**
 <br>
 <br>
-Yeşil code butonuna tıkladıktan sonra Download ZIP diyerek bilgisayarınıza indirebilirsiniz.
+Yeşil renkli code butonuna tıkladıktan sonra Download ZIP diyerek bilgisayarınıza indirebilirsiniz.
 <br>
 <br>
 <br>
