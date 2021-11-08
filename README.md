@@ -3,7 +3,6 @@ Bir firmadan otobüs bileti almanızı sağlayan bir otomasyon.
 <br>
 <br>
 <br>
-mert
 **Proje Nasıl İndirilir?**
 <br>
 <br>
